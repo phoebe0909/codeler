@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WordleExperiment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="winsLosses">Wins: Losses: </string>
+    <string name="play_again_button">Play Again Button</string>
+    <string name= "dialog_start_game">Start New Game?</string>
+    <string name= "start">Start</string>
+    <string name= "cancel">Cancel</string>
+    <string name= "welcome">Welcome to Codeler!</string>
+    <string name= "howToPlay">How to Play: \n\n Guess the word in 6 or fewer tries.\n After each guess, the color of the tiles will change to tell you which letters you guessed right.</string>
+    <string name= "colors">Green: Letter in the correct place. \n Yellow: Letter in the wrong place. \n Black: Letter not in the word.</string>
+    <string name="already_have_an_account">Already have an account? <font color='#01C6DB'>Login</font></string>
+    <string name="green"><font color="#19a337">GREEN: </font>Letter in the correct place. \n <font color="#FF9800">YELLOW: </font> Letter in the wrong place. \n BLACK: Letter not in the word.</string>
+</resources>
