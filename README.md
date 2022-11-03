@@ -1,4 +1,4 @@
-# codeler
+# Codeler
 <a href="https://img.shields.io/github/languages/top/phoebe0909/wordleTributeAndroid" alt="Languages">
         <img src="https://img.shields.io/github/languages/top/phoebe0909/wordleTributeAndroid" /></a>
         <a href="https://img.shields.io/badge/Android-Studio-brightgreen" alt="Android Studio">
@@ -22,7 +22,7 @@ Creating a more responsive design. Adding social media features. Adding animatio
 
 ## Skip ahead to the good stuff:   
 If you'd like to take a look at my code without having to dig through a lot of folders, start here:
-
+https://github.com/phoebe0909/codeler/tree/main/main/java/weiss/kotlin/wordleexperiment
 
 
 ## License
