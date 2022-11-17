@@ -1,6 +1,6 @@
 # Codeler
-<a href="https://img.shields.io/github/languages/top/phoebe0909/wordleTributeAndroid" alt="Languages">
-        <img src="https://img.shields.io/github/languages/top/phoebe0909/wordleTributeAndroid" /></a>
+<a href="https://img.shields.io/github/languages/top/phoebe0909/flashCardApp" alt="Languages">
+        <img src="https://img.shields.io/github/languages/top/phoebe0909/flashCardApp" /></a>
         <a href="https://img.shields.io/badge/Android-Studio-brightgreen" alt="Android Studio">
         <img src="https://img.shields.io/badge/Android-Studio-brightgreen" /></a>
         
